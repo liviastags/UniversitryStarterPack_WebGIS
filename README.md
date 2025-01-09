@@ -14,7 +14,7 @@ Aplikasi ini berisi informasi lokasi toko-toko yang menyediakan kebutuhan pokok,
   <li>🍴 <strong>Makanan dan minuman:</strong> toko bahan makanan, warung makan, hingga supermarket</li>
   <li>👕 <strong>Pakaian:</strong> toko pakaian atau perlengkapan harian</li>
 </ul>  
-Dengan bantuan sistem berbasis peta ini, mahasiswa dapat dengan mudah menemukan tempat-tempat yang mereka butuhkan dalam radius tertentu.  
+Dengan bantuan website berbasis spasial, mahasiswa dapat dengan mudah menemukan toko-toko yang menjual kebutuhan pokok berserta lokasinya.  
 </p>  
 
 <hr>  
@@ -67,7 +67,6 @@ Dengan bantuan sistem berbasis peta ini, mahasiswa dapat dengan mudah menemukan 
 <hr>  
 
 <h1>📸 TANGKAPAN LAYAR PENTING PRODUK</h1>  
-<p>Berikut adalah tampilan antarmuka aplikasi:</p>  
 
 <img src="https://github.com/user-attachments/assets/312356fd-6cd5-4084-8f1b-3c5ab7f7dbf2" alt="Home Page" width="600">  
 
