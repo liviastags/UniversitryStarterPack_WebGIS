@@ -1,7 +1,3 @@
-Berikut adalah versi README dengan isi yang lebih detail dan informatif, terutama terkait teknologi yang digunakan:  
-
----
-
 <hr>  
 
 <h1>📌 NAMA PROJECT</h1>  
@@ -74,13 +70,19 @@ Dengan bantuan sistem berbasis peta ini, mahasiswa dapat dengan mudah menemukan 
 <h1>📸 TANGKAPAN LAYAR PENTING PRODUK</h1>  
 <p>Berikut adalah tampilan antarmuka aplikasi:</p>  
 
-<img src="https://github.com/liviastags/University-Starter-Pack/assets/142877005/5ad85fe3-e716-458e-915a-5872be4ca946" alt="Screenshot 1" width="600">  
+<img src="https://github.com/user-attachments/assets/312356fd-6cd5-4084-8f1b-3c5ab7f7dbf2" alt="Home Page" width="600">  
 
-<img src="https://github.com/liviastags/University-Starter-Pack/assets/142877005/c80f595a-8f3a-4e93-83db-dc871f74e03a" alt="Screenshot 2" width="600">  
+<img src="https://github.com/user-attachments/assets/34e20021-76d8-4505-b94a-9584355f8a22" alt="Pop Up in Map" width="600">  
 
-<img src="https://github.com/user-attachments/assets/34e20021-76d8-4505-b94a-9584355f8a22" alt="Screenshot 3" width="600">  
+<img src="https://github.com/user-attachments/assets/c54eda71-902f-413a-86f4-e6b10e36d721" alt="List of Markets" width="600">  
 
-<img src="https://github.com/user-attachments/assets/c54eda71-902f-413a-86f4-e6b10e36d721" alt="Screenshot 4" width="600">  
+<img src="https://github.com/user-attachments/assets/ac880c88-6670-4c08-9733-2cc625911b84" alt="List of Markets" width="600">  
+
+<img src="https://github.com/user-attachments/assets/e9417bc2-8da6-433a-85a1-65bf24b92b18" alt="Pop Up Information" width="600"> 
+
+
+
+
 
 
 ---
