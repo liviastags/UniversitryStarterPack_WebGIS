@@ -1,7 +1,5 @@
-<hr>  
 
-<h1>📌 NAMA PROJECT</h1>  
-<p><strong>University Starter Pack</strong></p>  
+<h1>📌 University Starter Pack</h1>  
 
 <hr>  
 
