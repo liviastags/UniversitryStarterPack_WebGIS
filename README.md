@@ -7,13 +7,12 @@
 
 <h1>📖 DESKRIPSI PROJECT</h1>  
 <p>
-<strong>University Starter Pack</strong> adalah aplikasi WebGIS interaktif yang dirancang untuk membantu mahasiswa baru dalam mempersiapkan kehidupan mereka di lingkungan baru.  
-Aplikasi ini berisi informasi lokasi toko-toko penting yang menyediakan kebutuhan pokok, seperti:  
+<strong>University Starter Pack</strong> adalah suatu platform WebGIS interaktif yang dirancang untuk membantu mahasiswa baru dalam mempersiapkan kehidupan mereka di lingkungan baru.  
+Aplikasi ini berisi informasi lokasi toko-toko yang menyediakan kebutuhan pokok, seperti:  
 <ul>
   <li>📦 <strong>Perlengkapan rumah tangga:</strong> alat dapur, perabotan, dan lainnya</li>
   <li>🍴 <strong>Makanan dan minuman:</strong> toko bahan makanan, warung makan, hingga supermarket</li>
   <li>👕 <strong>Pakaian:</strong> toko pakaian atau perlengkapan harian</li>
-  <li>🏠 <strong>Hunian:</strong> informasi kos atau tempat tinggal</li>
 </ul>  
 Dengan bantuan sistem berbasis peta ini, mahasiswa dapat dengan mudah menemukan tempat-tempat yang mereka butuhkan dalam radius tertentu.  
 </p>  
@@ -21,7 +20,7 @@ Dengan bantuan sistem berbasis peta ini, mahasiswa dapat dengan mudah menemukan 
 <hr>  
 
 <h1>⚙️ KOMPONEN PEMBANGUN PRODUK</h1>  
-<p>Aplikasi ini dibangun menggunakan teknologi-teknologi berikut:</p>  
+<p>WebGIS ini dibangun menggunakan teknologi-teknologi berikut:</p>  
 <ul>  
   <li>🌐 <strong>Frontend:</strong>  
     <ul>
@@ -59,7 +58,7 @@ Dengan bantuan sistem berbasis peta ini, mahasiswa dapat dengan mudah menemukan 
 <hr>  
 
 <h1>🌐 SUMBER DATA</h1>  
-<p>Aplikasi ini menggunakan data dari sumber berikut:</p>  
+<p>WebGIS ini menggunakan data dari sumber berikut:</p>  
 <ul>  
   <li>📍 <a href="https://www.google.com/maps/@-7.7651543,110.3666396,15z?entry=ttu" target="_blank">Google Maps</a>: Untuk pengambilan titik koordinat lokasi toko dan populasi sekitar</li>  
   <li>🗺️ <a href="https://tanahair.indonesia.go.id/portal-web" target="_blank">InaGeoportal</a>: Data shapefile wilayah Provinsi D.I.Y</li>  
